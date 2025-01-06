@@ -9,11 +9,3 @@
 - Lighthouse 100 | 100 | 100 | 100
 
 Just take the index.html, no need to change anything, and upload it where ever you want.
-
-## Legal stuff
-
-artwork: "Server down" from https://undraw.co/
-license: https://undraw.co/license
-
-favicon: based on "Maintenance icon" from https://www.iconfinder.com/icons/2639855/maintenance_icon
-license: https://en.wikipedia.org/wiki/WTFPL
